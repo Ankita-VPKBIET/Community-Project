@@ -1,7 +1,7 @@
 # Community-Project
 This is my first Git Repository
 >I am using this for my Community Project
->Currently I am studying technologies needed for this project.
+>b Currently I am studying technologies needed for this project.
 
 ## Team Members 
 - Ankita Devkar
